@@ -1,0 +1,23 @@
+SECTIONCODE,SECTIONSHORTDESC,SECTIONDESC,PRIORITYNO
+01,X-I,Expenditure-I,1
+02,X-II,Expenditure-II,2
+03,SBS,Stores Bill - Stock,3
+04,SBNS,Stores Bill - Non Stock,4
+05,STS,Stores - Suspense,5
+06,EGA,Establishment Bills-Gazetted,6
+07,ENG,Establishment Bills-Non Gazetted,7
+08,PF,PF Section,8
+09,PEN,Pension,9
+10,BKS,Books Section,10
+11,TA,Traffic Accounts,11
+12,TAC,Claims and Refunds (Traffic),12
+13,C&P,Cash and Pay,13
+14,CTG,Catering,14
+15,SL,Sleeper/Tr. Earning,15
+16,WCC,Workmans Compensation ,16
+17,RCT,Rly-Claims-Tribunal,17
+18,IROF/GRS,IROF/GRS,18
+19,LOANS,Loans,19
+20,NPS,NPS,20
+21,FUEL,FUEL,21
+22,WS Cordination,Workshop Cordination,22
